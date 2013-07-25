@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="myConnectionString-Web.config Connection String" description="myConnectionString Connection String used in web.config by the application to access the database." defaultValue="encrypt=True;connection timeout=30;server=tcp:fizh8y60zs.database.windows.net,1433;database=Sharepoint101;user id=adopt-sharepoint@fizh8y60zs;password=SPusecase38655;trusted_connection=False;encrypt=True;connection timeout=30" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\rms\\Documents\\GitHub\\DiscoverSharepoint\\DiscoverSharepointWeb\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='myConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,4 @@
+C:\Users\rms\Documents\GitHub\DiscoverSharepoint\DiscoverSharepoint\bin\Debug\Videos\1cap.txt
+C:\Users\rms\Documents\GitHub\DiscoverSharepoint\DiscoverSharepoint\bin\Debug\DiscoverSharepoint.pdb
+C:\Users\rms\Documents\GitHub\DiscoverSharepoint\DiscoverSharepoint\obj\Debug\DiscoverSharepoint.dll
+C:\Users\rms\Documents\GitHub\DiscoverSharepoint\DiscoverSharepoint\obj\Debug\DiscoverSharepoint.pdb

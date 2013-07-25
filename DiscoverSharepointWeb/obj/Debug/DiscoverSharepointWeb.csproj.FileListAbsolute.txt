@@ -1,0 +1,13 @@
+C:\Users\rms\Documents\GitHub\DiscoverSharepoint\DiscoverSharepointWeb\bin\Videos\1cap.txt
+C:\Users\rms\Documents\GitHub\DiscoverSharepoint\DiscoverSharepointWeb\bin\DiscoverSharepointWeb.dll
+C:\Users\rms\Documents\GitHub\DiscoverSharepoint\DiscoverSharepointWeb\bin\DiscoverSharepointWeb.pdb
+C:\Users\rms\Documents\GitHub\DiscoverSharepoint\DiscoverSharepointWeb\bin\Microsoft.IdentityModel.dll
+C:\Users\rms\Documents\GitHub\DiscoverSharepoint\DiscoverSharepointWeb\bin\Microsoft.IdentityModel.Extensions.dll
+C:\Users\rms\Documents\GitHub\DiscoverSharepoint\DiscoverSharepointWeb\bin\Microsoft.SharePoint.Client.dll
+C:\Users\rms\Documents\GitHub\DiscoverSharepoint\DiscoverSharepointWeb\bin\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\rms\Documents\GitHub\DiscoverSharepoint\DiscoverSharepointWeb\bin\en\Microsoft.IdentityModel.resources.dll
+C:\Users\rms\Documents\GitHub\DiscoverSharepoint\DiscoverSharepointWeb\obj\Debug\DiscoverSharepointWeb.dll
+C:\Users\rms\Documents\GitHub\DiscoverSharepoint\DiscoverSharepointWeb\obj\Debug\DiscoverSharepointWeb.pdb
+C:\Users\rms\Documents\GitHub\DiscoverSharepoint\DiscoverSharepointWeb\bin\DiscoverSharepointWeb.dll.CodeAnalysisLog.xml
+C:\Users\rms\Documents\GitHub\DiscoverSharepoint\DiscoverSharepointWeb\bin\DiscoverSharepointWeb.dll.lastcodeanalysissucceeded
+C:\Users\rms\Documents\GitHub\DiscoverSharepoint\DiscoverSharepointWeb\obj\Debug\DiscoverSharepointWeb.csprojResolveAssemblyReference.cache
